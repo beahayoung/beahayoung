@@ -77,3 +77,8 @@ TMDB API를 활용한 영화 검색 앱으로, React를 학습하며 만들고 �
 <br/>
 
 이전에 퍼블리싱한 사이트들
+https://beahayoung.github.io/CloneNexon1v1/
+https://beahayoung.github.io/CloneNexon1v2/
+https://beahayoung.github.io/CloneNexon1v3/
+https://beahayoung.github.io/CloneNexon1v4/
+https://beahayoung.github.io/CloneNexon1v5/
