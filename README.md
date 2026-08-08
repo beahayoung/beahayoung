@@ -57,6 +57,7 @@ CSS Grid를 활용한 브랜드 사이트 클론 코딩 프로젝트입니다.
 
 #### ✨ 영화 검색 앱 — React 학습 프로젝트 (진행 중)
 TMDB API를 활용한 영화 검색 앱으로, React를 학습하며 만들고 있습니다.
+[🔗 사이트](https://beahayoung.github.io/movie-search-react/)
 
 <br/>
 
