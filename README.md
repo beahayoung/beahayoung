@@ -30,6 +30,9 @@ HTML/CSS/JS 퍼블리싱을 기반으로, 메가스터디 엘리하이·비상�
 ![Lenis](https://img.shields.io/badge/Lenis-000000?logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas-FF6384?logo=html5&logoColor=white)
 
+### Backend & Auth
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 #### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
