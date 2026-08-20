@@ -51,13 +51,9 @@ GSAP · ScrollTrigger · Lenis 기반의 스크롤 인터랙션 포트폴리오�
 24개의 UI 컴포넌트와 다크모드, JSON 기반 코드뷰어를 직접 구현했습니다.
 [🔗 사이트](https://beahayoung.github.io/BHY.UI/)
 
-#### ✨ 풀바셋 그리드 — 브랜드 사이트 클론
-CSS Grid를 활용한 브랜드 사이트 클론 코딩 프로젝트입니다.
-[🔗 사이트](https://beahayoung.github.io/paullbassettGrid/)
-
 #### ✨ 영화 검색 앱 — React 학습 프로젝트 (진행 중)
 TMDB API를 활용한 영화 검색 앱으로, React를 학습하며 만들고 있습니다.
-[🔗 사이트](https://beahayoung.github.io/movie-search-react/)
+[🔗 사이트](https://movie-search-react-umber-three.vercel.app/)
 
 <br/>
 
