@@ -45,7 +45,7 @@ HTML/CSS/JS 퍼블리싱을 기반으로, 메가스터디 엘리하이·비상�
 
 #### ✨ BHY Portfolio — 인터랙티브 포트폴리오
 GSAP · ScrollTrigger · Lenis 기반의 스크롤 인터랙션 포트폴리오입니다.
-[🔗 사이트](https://beahayoung.github.io/bhywedportfolio/)
+[🔗 사이트](https://thriving-strudel-602682.netlify.app/)
 
 #### ✨ BHY.UI — UI 컴포넌트 라이브러리
 24개의 UI 컴포넌트와 다크모드, JSON 기반 코드뷰어를 직접 구현했습니다.
